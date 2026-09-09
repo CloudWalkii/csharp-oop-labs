@@ -1,0 +1,7 @@
+C:\Users\mamdo\source\repos\CSharp - Day1 - 3dPoints and Fractions\bin\Debug\csharp-oop-labsDay01-3dPointAndFraction.exe.config
+C:\Users\mamdo\source\repos\CSharp - Day1 - 3dPoints and Fractions\bin\Debug\csharp-oop-labsDay01-3dPointAndFraction.exe
+C:\Users\mamdo\source\repos\CSharp - Day1 - 3dPoints and Fractions\bin\Debug\csharp-oop-labsDay01-3dPointAndFraction.pdb
+C:\Users\mamdo\source\repos\CSharp - Day1 - 3dPoints and Fractions\obj\Debug\CSharp -Day 1 - 3dPoints and Fractions.csproj.AssemblyReference.cache
+C:\Users\mamdo\source\repos\CSharp - Day1 - 3dPoints and Fractions\obj\Debug\CSharp -Day 1 - 3dPoints and Fractions.csproj.CoreCompileInputs.cache
+C:\Users\mamdo\source\repos\CSharp - Day1 - 3dPoints and Fractions\obj\Debug\csharp-oop-labsDay01-3dPointAndFraction.exe
+C:\Users\mamdo\source\repos\CSharp - Day1 - 3dPoints and Fractions\obj\Debug\csharp-oop-labsDay01-3dPointAndFraction.pdb
