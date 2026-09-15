@@ -1,0 +1,7 @@
+C:\Users\mamdo\source\repos\CSharp - Day 5 - Operator Overloading\bin\Debug\CSharp - Day 5 - Operator Overloading.exe.config
+C:\Users\mamdo\source\repos\CSharp - Day 5 - Operator Overloading\bin\Debug\CSharp - Day 5 - Operator Overloading.exe
+C:\Users\mamdo\source\repos\CSharp - Day 5 - Operator Overloading\bin\Debug\CSharp - Day 5 - Operator Overloading.pdb
+C:\Users\mamdo\source\repos\CSharp - Day 5 - Operator Overloading\obj\Debug\CSharp - Day 5 - Operator Overloading.csproj.AssemblyReference.cache
+C:\Users\mamdo\source\repos\CSharp - Day 5 - Operator Overloading\obj\Debug\CSharp - Day 5 - Operator Overloading.csproj.CoreCompileInputs.cache
+C:\Users\mamdo\source\repos\CSharp - Day 5 - Operator Overloading\obj\Debug\CSharp - Day 5 - Operator Overloading.exe
+C:\Users\mamdo\source\repos\CSharp - Day 5 - Operator Overloading\obj\Debug\CSharp - Day 5 - Operator Overloading.pdb
