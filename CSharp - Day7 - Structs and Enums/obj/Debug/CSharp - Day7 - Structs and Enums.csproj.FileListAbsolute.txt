@@ -1,0 +1,7 @@
+C:\Users\mamdo\source\repos\CSharp - Day7 - Structs and Enums\bin\Debug\CSharp - Day7 - Structs and Enums.exe.config
+C:\Users\mamdo\source\repos\CSharp - Day7 - Structs and Enums\bin\Debug\CSharp - Day7 - Structs and Enums.exe
+C:\Users\mamdo\source\repos\CSharp - Day7 - Structs and Enums\bin\Debug\CSharp - Day7 - Structs and Enums.pdb
+C:\Users\mamdo\source\repos\CSharp - Day7 - Structs and Enums\obj\Debug\CSharp - Day7 - Structs and Enums.csproj.AssemblyReference.cache
+C:\Users\mamdo\source\repos\CSharp - Day7 - Structs and Enums\obj\Debug\CSharp - Day7 - Structs and Enums.csproj.CoreCompileInputs.cache
+C:\Users\mamdo\source\repos\CSharp - Day7 - Structs and Enums\obj\Debug\CSharp - Day7 - Structs and Enums.exe
+C:\Users\mamdo\source\repos\CSharp - Day7 - Structs and Enums\obj\Debug\CSharp - Day7 - Structs and Enums.pdb
